@@ -1,55 +1,76 @@
 <div align="center">
 
-# 👋 Hi there, I'm Monty!
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=IT+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Growing+Alongside+Technology+%F0%9F%9A%80)](https://git.io/typing-svg)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=E24B4A&height=200&section=header&text=Welcome%20to%20Monty's%20Github&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20/%20%3E&descAlignY=55&descAlign=50)
 
 </div>
 
 ---
-
-## 💫 About Me
-
-Hi, nice to meet you. You can call me **Monty**. I love learning new things in the world of technology,
-especially in the field of IT, and I'm ready to grow alongside technology himself.
-
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danyrmdhnnn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyramadhan066)
-
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=iamMontyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=iamMontyy&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamMontyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/danyrmdhnnn)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyramadhan066)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 👤 About Me
+
+Hello! I'm **Monty (Dany Ramadhan)**, an IT enthusiast. I love learning new things in the world of technology,
+especially in the field of IT, and I'm ready to grow alongside technology himself.
+
+- 📍 Depok, West Java, Indonesia
+- 🌱 Currently learning web development & backend systems
+- 💡 Always open to new challenges and collaborations
+
+---
+
+## ⚙️ Technologies
+
+![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Apache](https://img.shields.io/badge/APACHE-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=iamMontyy&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=iamMontyy&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🗂 Top Languages
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamMontyy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=iamMontyy&theme=redical&hide_border=true&bg_color=0d1117&color=e24b4a&line=e24b4a&point=ffffff)
+
+</div>
+
+---
+
+## 🏆 Trophies
 
 <div align="center">
 
@@ -59,20 +80,10 @@ especially in the field of IT, and I'm ready to grow alongside technology himsel
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=iamMontyy&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=iamMontyy&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iamMontyy&label=VISITOR%20COUNT&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=E24B4A&height=100&section=footer)
