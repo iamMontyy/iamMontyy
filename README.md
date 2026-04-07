@@ -20,10 +20,6 @@
 Hello! I'm **Monty (Dany Ramadhan)**, an IT enthusiast. I love learning new things in the world of technology,
 especially in the field of IT, and I'm ready to grow alongside technology himself.
 
-- 📍 Depok, West Java, Indonesia
-- 🌱 Currently learning web development & backend systems
-- 💡 Always open to new challenges and collaborations
-
 ---
 
 ## ⚙️ Technologies
