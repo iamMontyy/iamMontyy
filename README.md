@@ -17,7 +17,7 @@
 
 ## 👤 About Me
 
-Hello! I'm **Monty (Dany Ramadhan)**, an IT enthusiast. I love learning new things in the world of technology,
+Hello! I'm **Monty Dany Ramadhan**, an IT enthusiast. I love learning new things in the world of technology,
 especially in the field of IT, and I'm ready to grow alongside technology himself.
 
 ---
