@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](banner.jpg)
+![Banner](download(2).jpg)
 
 </div>
 
