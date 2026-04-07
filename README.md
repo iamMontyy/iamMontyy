@@ -2,7 +2,6 @@
 
 # 👋 Hi there, I'm Monty!
 
-<img src="https://avatars.githubusercontent.com/u/iamMontyy" width="120" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=IT+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Growing+Alongside+Technology+%F0%9F%9A%80)](https://git.io/typing-svg)
 
