@@ -28,12 +28,14 @@ Hello! I’m Monty, a tech enthusiast. I love learning new things in the world o
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
+
 ## 📈 Contribution Graph
 <div align="center">
 ![](https://github-readme-activity-graph.vercel.app/graph?username=iamMontyy&theme=redical&hide_border=true&bg_color=0d1117&color=e24b4a&line=e24b4a&point=ffffff)
 </div>
 
 ---
+
 <div align="center">
 [![](https://visitcount.itsvg.in/api?id=iamMontyy&label=VISITOR%20COUNT&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
