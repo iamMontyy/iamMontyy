@@ -66,16 +66,6 @@ especially in the field of IT, and I'm ready to grow alongside technology himsel
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=iamMontyy&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=iamMontyy&label=VISITOR%20COUNT&icon=0&color=12)](https://visitcount.itsvg.in)
