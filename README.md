@@ -3,14 +3,17 @@
 </div>
 
 ---
+
 <div align="center">
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/danyrmdhnnn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyramadhan066)
 </div>
 
 ---
+
 ## 👤 About Me
 Hello! I’m Monty, a tech enthusiast. I love learning new things in the world of technology, especially in the field of IT, and I’m ready to keep growing alongside the advancements in technology itself. I’m currently working with technologies such as JavaScript, Java, C++, PHP, Apache, Git, and MySQL.
+
 ---
 
 ## ⚙️ Technologies
