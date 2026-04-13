@@ -8,12 +8,12 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 Hello! I’m Monty, a tech enthusiast. I love learning new things in the world of technology, especially in the field of IT, and I’m ready to keep growing alongside the advancements in technology itself. I’m currently working with technologies such as JavaScript, Java, HTML5, CSS C++, PHP, Apache, Git, and MySQL.
 
 ---
 
-## 🛠️ Bahasa & Teknologi
+## 🛠️ Language and Technologyi
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
