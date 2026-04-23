@@ -13,7 +13,7 @@ Hello! I’m Monty, a tech enthusiast. I love learning new things in the world o
 
 ---
 
-## 🛠️ Language and Technologyi
+## 🛠️ Language and Technology
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
