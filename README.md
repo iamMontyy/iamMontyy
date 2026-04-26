@@ -23,6 +23,7 @@ Hello! I’m Monty, a tech enthusiast. I love learning new things in the world o
   <img src="https://img.shields.io/badge/C%2B%2B-181818?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
   <br/>
   <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Apache-181818?style=for-the-badge&logo=Apache&logoColor=D22128" alt="Apache" />
   <br/>
   <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
