@@ -8,12 +8,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 Hello! I’m Monty, a tech enthusiast. I love learning new things in the world of technology, especially in the field of IT, and I’m ready to keep growing alongside the advancements in technology itself. Im currently working with technologies such as JavaScript, Java, HTML5, CSS C++, PHP, Apache, Git, and MySQL.
 
 ---
 
-## 🛠️ Language and Technology
+## Language and Technology
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -32,7 +32,7 @@ Hello! I’m Monty, a tech enthusiast. I love learning new things in the world o
 
 ---
 
-## 📊 GitHub Streak & Contributions
+## GitHub Streak & Contributions
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamMontyy&theme=dark&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
 </div>
